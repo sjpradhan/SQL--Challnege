@@ -1,3 +1,5 @@
+![This is an image](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/Air%20Quality%20Analysis%20Project/pollution-italy.jpg)
+
 # Introduction
 
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
