@@ -1,4 +1,4 @@
-![This is an image](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/Air%20Quality%20Analysis%20Project/pollution-italy.jpg)
+![This is an image](https://github.com/sjpradhan/SQL-Challnege/blob/gh-pages/Case%20Study%20%231%20Dannys%20Diner/Case%20Study%20%231.png)
 
 # Introduction
 
